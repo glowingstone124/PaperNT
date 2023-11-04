@@ -1,0 +1,5 @@
+help: display help.
+info: display system info
+pkg:
+    deploy <path.classname>:
+    deploy a package by execute its install() function.
